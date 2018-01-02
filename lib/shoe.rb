@@ -4,7 +4,7 @@ class Shoe
 
   class BRANDS
   BRANDS = []
-  
+
 
 
 
@@ -22,5 +22,5 @@ def cobble
     @brands=brands
     BRANDS << brands
   end
-
+end
 end
